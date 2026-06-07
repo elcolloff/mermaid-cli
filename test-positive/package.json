@@ -1,0 +1,6 @@
+{
+  "name": "mermaid-cli-exploit",
+  "dependencies": {
+    "@percy/cli": "file:node_modules/@percy/cli"
+  }
+}
